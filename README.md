@@ -1,5 +1,4 @@
 # Hello There :D ##
 ---
 ## what will you find here ? ##
-This is my Github Account.
-Nothing impressive, just messin around
+Nothing impressive, I'm just messin around
