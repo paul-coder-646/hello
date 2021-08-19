@@ -1,3 +1,5 @@
-# hello there
+# Hello There :D ##
 ---
-This is my Github
+## what will you find here ? ##
+This is my Github Account.
+Nothing impressive, just messin around
